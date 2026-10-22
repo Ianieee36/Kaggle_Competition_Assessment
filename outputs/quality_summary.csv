@@ -1,0 +1,9 @@
+Check,Result,Note
+Corrupted files,0,Could not be fully decoded
+Distinct image sizes (train),7861,Width 4 to 2219 px
+Blurriest images flagged,932,Bottom 1% of sharpness
+Very dark / bright / near-uniform,531 / 80 / 141,"Mean < 20, mean > 235, sd < 8"
+Exact duplicate groups (train),15,Identical file bytes
+Near-duplicate groups (train),40,Identical perceptual hash
+Near-duplicate groups with conflicting labels,0,"Same picture, different class"
+Train pictures also in test (near),2,Possible train/test overlap
