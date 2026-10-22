@@ -1,0 +1,3 @@
+Folder,Images,CSV rows,Format(s),Colour mode(s),Size range (W x H),Labelled,Used for
+train/,63660,63660,JPEG,RGB,4x4 to 2219x2219,Yes (train_labels.csv),Training and validation
+test/,29443,29443,JPEG,RGB,8x9 to 1832x1978,No,Kaggle predictions only
