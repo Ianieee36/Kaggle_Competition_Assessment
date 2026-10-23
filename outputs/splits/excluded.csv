@@ -1,0 +1,231 @@
+image_id,label,short_side,reason
+00119,CatEye,8,shortest side < 16 px
+00405,CatEye,12,shortest side < 16 px
+00689,CatNose,12,shortest side < 16 px
+01068,DogEye,14,shortest side < 16 px
+01337,CatEye,14,shortest side < 16 px
+01594,CatMouth,6,shortest side < 16 px
+01656,CatMouth,12,shortest side < 16 px
+01746,CatEye,14,shortest side < 16 px
+02188,CatMouth,8,shortest side < 16 px
+02344,CatNose,12,shortest side < 16 px
+02480,CatNose,8,shortest side < 16 px
+02727,CatNose,14,shortest side < 16 px
+03609,CatEye,14,shortest side < 16 px
+04968,CatNose,14,shortest side < 16 px
+05361,CatEye,8,shortest side < 16 px
+05526,CatEye,10,shortest side < 16 px
+05553,CatEye,12,shortest side < 16 px
+06017,CatEye,14,shortest side < 16 px
+06203,CatEye,14,shortest side < 16 px
+06439,CatMouth,14,shortest side < 16 px
+07871,CatEye,14,shortest side < 16 px
+08525,CatEye,12,shortest side < 16 px
+08783,CatMouth,14,shortest side < 16 px
+09172,CatNose,14,shortest side < 16 px
+09268,CatEye,14,shortest side < 16 px
+09998,CatNose,12,shortest side < 16 px
+10001,CatEye,14,shortest side < 16 px
+10106,CatNose,6,shortest side < 16 px
+10191,CatEye,10,shortest side < 16 px
+10387,CatEye,12,shortest side < 16 px
+10459,CatEye,12,shortest side < 16 px
+11046,CatNose,14,shortest side < 16 px
+11171,CatMouth,12,shortest side < 16 px
+11748,CatEye,14,shortest side < 16 px
+12429,CatNose,5,shortest side < 16 px
+13033,CatNose,10,shortest side < 16 px
+13237,CatEye,14,shortest side < 16 px
+13455,CatMouth,14,shortest side < 16 px
+13563,CatNose,8,shortest side < 16 px
+13834,CatEye,10,shortest side < 16 px
+14181,CatEye,4,shortest side < 16 px
+14339,CatNose,14,shortest side < 16 px
+14468,CatEye,12,shortest side < 16 px
+14938,CatEye,10,shortest side < 16 px
+15119,CatEye,12,shortest side < 16 px
+15268,CatNose,14,shortest side < 16 px
+15600,CatEye,12,shortest side < 16 px
+15601,CatEye,10,shortest side < 16 px
+15710,CatMouth,14,shortest side < 16 px
+15875,CatEye,12,shortest side < 16 px
+16119,CatEye,10,shortest side < 16 px
+17886,CatEye,14,shortest side < 16 px
+18097,CatEye,12,shortest side < 16 px
+18151,CatMouth,14,shortest side < 16 px
+18283,CatNose,12,shortest side < 16 px
+19168,CatEye,10,shortest side < 16 px
+19335,CatNose,14,shortest side < 16 px
+19437,CatEye,10,shortest side < 16 px
+19591,CatEye,14,shortest side < 16 px
+21106,CatEye,14,shortest side < 16 px
+21176,CatEye,14,shortest side < 16 px
+21275,CatEye,10,shortest side < 16 px
+21527,CatEye,14,shortest side < 16 px
+21810,CatEye,10,shortest side < 16 px
+21880,CatEye,14,shortest side < 16 px
+21923,CatEye,4,shortest side < 16 px
+22535,CatEye,10,shortest side < 16 px
+23020,CatEye,14,shortest side < 16 px
+23242,CatNose,10,shortest side < 16 px
+23537,CatEye,14,shortest side < 16 px
+23956,CatEye,10,shortest side < 16 px
+24363,CatNose,12,shortest side < 16 px
+24656,CatMouth,12,shortest side < 16 px
+24756,CatMouth,14,shortest side < 16 px
+25094,CatMouth,14,shortest side < 16 px
+25420,CatNose,14,shortest side < 16 px
+25432,CatMouth,12,shortest side < 16 px
+25809,DogNose,14,shortest side < 16 px
+26701,CatMouth,14,shortest side < 16 px
+27703,CatEye,14,shortest side < 16 px
+27914,CatEye,14,shortest side < 16 px
+28985,CatEye,12,shortest side < 16 px
+29153,CatEye,14,shortest side < 16 px
+29282,CatEye,8,shortest side < 16 px
+29681,CatNose,10,shortest side < 16 px
+29753,CatMouth,8,shortest side < 16 px
+29918,CatEye,12,shortest side < 16 px
+30741,CatEye,10,shortest side < 16 px
+30980,CatNose,14,shortest side < 16 px
+31263,CatEye,14,shortest side < 16 px
+31485,CatEye,14,shortest side < 16 px
+31558,CatMouth,14,shortest side < 16 px
+32523,CatEye,8,shortest side < 16 px
+32784,CatEye,12,shortest side < 16 px
+33210,CatNose,14,shortest side < 16 px
+33833,CatNose,14,shortest side < 16 px
+34201,CatEye,12,shortest side < 16 px
+34901,CatNose,14,shortest side < 16 px
+35239,CatNose,10,shortest side < 16 px
+35392,CatEye,14,shortest side < 16 px
+35437,CatNose,14,shortest side < 16 px
+36018,CatNose,4,shortest side < 16 px
+36043,CatMouth,14,shortest side < 16 px
+36257,DogEye,14,shortest side < 16 px
+36388,CatNose,12,shortest side < 16 px
+36816,CatNose,14,shortest side < 16 px
+36952,CatEye,14,shortest side < 16 px
+36996,CatNose,12,shortest side < 16 px
+37067,CatEye,14,shortest side < 16 px
+37223,CatNose,10,shortest side < 16 px
+37508,CatEye,14,shortest side < 16 px
+37901,CatEye,12,shortest side < 16 px
+38446,CatMouth,12,shortest side < 16 px
+38537,CatNose,14,shortest side < 16 px
+38794,CatEye,6,shortest side < 16 px
+39346,CatEye,14,shortest side < 16 px
+39738,CatNose,14,shortest side < 16 px
+39855,CatEye,8,shortest side < 16 px
+40617,CatEye,12,shortest side < 16 px
+40935,CatEye,10,shortest side < 16 px
+41048,CatNose,12,shortest side < 16 px
+41675,CatEye,10,shortest side < 16 px
+41706,CatMouth,12,shortest side < 16 px
+41762,CatNose,10,shortest side < 16 px
+42358,CatEye,14,shortest side < 16 px
+42776,CatEye,14,shortest side < 16 px
+43884,CatEye,8,shortest side < 16 px
+44108,CatNose,12,shortest side < 16 px
+44152,CatNose,10,shortest side < 16 px
+44501,CatEye,14,shortest side < 16 px
+44822,CatMouth,12,shortest side < 16 px
+45242,CatNose,14,shortest side < 16 px
+45510,CatEye,12,shortest side < 16 px
+45616,CatNose,14,shortest side < 16 px
+45766,CatEye,10,shortest side < 16 px
+46092,CatEye,12,shortest side < 16 px
+46327,CatEye,10,shortest side < 16 px
+46440,CatMouth,12,shortest side < 16 px
+46488,CatNose,10,shortest side < 16 px
+46823,CatEye,14,shortest side < 16 px
+46962,CatEye,12,shortest side < 16 px
+47009,CatEye,10,shortest side < 16 px
+47781,CatEye,14,shortest side < 16 px
+47960,CatEye,12,shortest side < 16 px
+48016,CatMouth,10,shortest side < 16 px
+48657,CatEye,14,shortest side < 16 px
+48824,CatEye,14,shortest side < 16 px
+48842,CatEye,14,shortest side < 16 px
+49218,CatEye,14,shortest side < 16 px
+49246,CatEye,14,shortest side < 16 px
+49534,DogEye,14,shortest side < 16 px
+51205,CatMouth,12,shortest side < 16 px
+51449,CatMouth,4,shortest side < 16 px
+51707,CatMouth,12,shortest side < 16 px
+51759,CatEye,10,shortest side < 16 px
+52039,CatEye,14,shortest side < 16 px
+52107,CatEye,10,shortest side < 16 px
+52407,CatEye,12,shortest side < 16 px
+52606,CatEye,14,shortest side < 16 px
+52816,CatMouth,8,shortest side < 16 px
+53701,CatMouth,12,shortest side < 16 px
+53782,CatNose,14,shortest side < 16 px
+54502,CatNose,10,shortest side < 16 px
+55062,CatEye,10,shortest side < 16 px
+55104,CatNose,12,shortest side < 16 px
+55416,CatMouth,12,shortest side < 16 px
+55534,CatEye,12,shortest side < 16 px
+56041,CatEye,14,shortest side < 16 px
+56134,CatNose,10,shortest side < 16 px
+57560,CatMouth,14,shortest side < 16 px
+57905,CatNose,10,shortest side < 16 px
+57997,CatNose,14,shortest side < 16 px
+59018,CatNose,8,shortest side < 16 px
+59103,CatEye,14,shortest side < 16 px
+59655,CatNose,12,shortest side < 16 px
+59924,CatEye,10,shortest side < 16 px
+60207,DogNose,14,shortest side < 16 px
+60246,CatNose,14,shortest side < 16 px
+60828,CatEye,12,shortest side < 16 px
+60897,CatEye,6,shortest side < 16 px
+61294,CatMouth,14,shortest side < 16 px
+61691,DogEye,14,shortest side < 16 px
+61975,CatEye,14,shortest side < 16 px
+61984,CatNose,14,shortest side < 16 px
+62253,CatNose,10,shortest side < 16 px
+62491,CatEye,12,shortest side < 16 px
+62500,CatEye,14,shortest side < 16 px
+62959,CatNose,12,shortest side < 16 px
+63056,CatEye,10,shortest side < 16 px
+63443,CatEye,10,shortest side < 16 px
+06903,CatEye,28,duplicate of image 00356
+07499,DogEye,82,duplicate of image 00942
+10431,DogNose,140,duplicate of image 06577
+12017,CatFace,174,duplicate of image 05555
+12150,CatMouth,40,duplicate of image 07219
+13646,DogNose,24,duplicate of image 08839
+16243,CatFace,570,duplicate of image 13877
+21960,CatEye,42,duplicate of image 16730
+23618,DogEye,76,duplicate of image 05976
+25184,DogEye,82,duplicate of image 03701
+26102,CatEye,132,duplicate of image 08508
+27167,CatMouth,126,duplicate of image 18426
+27175,CatFace,327,duplicate of image 04733
+28337,DogEye,32,duplicate of image 10047
+29360,CatMouth,144,duplicate of image 05036
+30776,DogFace,429,duplicate of image 02432
+35014,CatFace,140,duplicate of image 15127
+40256,CatNose,34,duplicate of image 25436
+42280,CatEye,42,duplicate of image 03365
+42355,DogFace,198,duplicate of image 31474
+45943,DogMouth,30,duplicate of image 31450
+46057,DogEye,36,duplicate of image 04003
+47034,DogFace,209,duplicate of image 19006
+47402,DogEye,64,duplicate of image 17460
+50179,DogEye,34,duplicate of image 30201
+50363,DogEye,70,duplicate of image 20182
+50567,CatEye,110,duplicate of image 21184
+52755,DogEye,34,duplicate of image 36988
+54078,DogFace,90,duplicate of image 45625
+55761,DogEye,36,duplicate of image 49150
+55965,DogFace,87,duplicate of image 35039
+56008,CatEye,52,duplicate of image 03926
+56162,CatFace,167,duplicate of image 06140
+57245,CatEye,120,duplicate of image 32588
+57804,CatEye,38,duplicate of image 54348
+59020,CatEye,38,duplicate of image 33473
+59733,CatNose,120,duplicate of image 09591
+61509,CatEye,214,duplicate of image 49007
+61837,CatFace,331,duplicate of image 06193
+63140,CatEye,40,duplicate of image 13090
