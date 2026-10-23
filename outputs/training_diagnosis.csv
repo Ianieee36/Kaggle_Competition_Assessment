@@ -1,0 +1,2 @@
+Run,Epochs run,Best epoch,Best val acc,Final train acc,Final val acc,Generalisation gap,Val loss rise,Diagnosis
+run3_resnet50_finetune,11 / 15,6,0.9547532713227179,0.9811800409900678,0.9503389563298124,0.03084108466025548,0.01647809324026972,Overfitting (controlled by early stopping / checkpoint)

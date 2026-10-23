@@ -1,0 +1,2 @@
+Run,Trainable parameters,Best val acc,Val loss at best,Best epoch,Epochs run,Training time (min)
+run3_resnet50_finetune,23524424,0.9547532713227179,0.5542370513581937,6,11,73.92990424633027

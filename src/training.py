@@ -150,6 +150,21 @@ def fit(cfg: RunConfig, device, train_loader, val_loader, pretrained=True):
     return model, hist
 
 
+def train_or_load(cfg: RunConfig, device, train_loader, val_loader, retrain=False):
+    """Trains a run, or loads its saved weights and history if it has already been trained.
+    This lets the notebook be re-run (e.g. after a kernel restart) without repeating long runs.
+    Set retrain=True to force a fresh training run."""
+    ckpt, hist_csv = MODEL_DIR / f"{cfg.name}.pt", HISTORY_DIR / f"{cfg.name}.csv"
+    if ckpt.exists() and hist_csv.exists() and not retrain:
+        model = load_trained_model(cfg.name, cfg.model, device)
+        hist = pd.read_csv(hist_csv)
+        best = hist.loc[hist["val_acc"].idxmax()]
+        print(f"[{cfg.name}] loaded saved run: {len(hist)} epochs, best val acc {best['val_acc']:.4f} "
+              f"at epoch {int(best['epoch'])} (set retrain=True to train again)")
+        return model, hist
+    return fit(cfg, device, train_loader, val_loader)
+
+
 def load_trained_model(name, model_type, device):
     """Loads saved weights for evaluation or prediction (no download of ImageNet weights needed)."""
     model = build_model(model_type, pretrained=False)
