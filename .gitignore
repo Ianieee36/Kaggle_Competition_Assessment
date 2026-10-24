@@ -1,2 +1,15 @@
-.DS_Store
+# Kaggle data: not redistributed, download from the competition page
 data/
+
+# Python and environment
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Large model weights: remove these two lines if the weights are committed directly
+outputs/models/run2_resnet50_frozen.pt
+outputs/models/run3_resnet50_finetune.pt
